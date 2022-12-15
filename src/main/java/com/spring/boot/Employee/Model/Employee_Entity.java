@@ -1,4 +1,4 @@
-package com.spring.boot.Model;
+package com.spring.boot.Employee.Model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
